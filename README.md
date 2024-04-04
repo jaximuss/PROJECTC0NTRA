@@ -20,7 +20,7 @@ Math Explorers is an interactive learning game designed to teach basic mathemati
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/math-explorers.git
+   git clone https://github.com/jaximuss/PROJECTC0NTRA.git
    ```
 2. Open Unity Hub and add the cloned project.
 3. Select the project to open it in Unity Editor.
