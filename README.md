@@ -1,6 +1,4 @@
-Creating a README for your Unity project is an excellent way to provide essential information to other developers, collaborators, or users. Below is a template for a README file tailored to a Unity project like yours, focusing on a learning game aimed at teaching mathematics to kids. You can adjust the sections according to the specifics of your project.
 
----
 
 # Project Name: Math Explorers
 
