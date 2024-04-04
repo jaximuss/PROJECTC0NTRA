@@ -1,0 +1,4 @@
+repository "TEST1@SYNC_GAMES@cloud"
+  path "/"
+    br "/main"
+    co "/main"
