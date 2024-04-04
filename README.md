@@ -1,6 +1,6 @@
 
 
-# Project Name: Math Explorers
+# Project Calulus
 
 ## Description
 Math Explorers is an interactive learning game designed to teach basic mathematics to children aged 5-10. Inspired by the engaging mechanics of games like Duolingo and Candy Crush, Math Explorers offers a fun, colorful, and user-friendly way for kids to learn and practice math skills, including addition, subtraction, and basic geometry.
